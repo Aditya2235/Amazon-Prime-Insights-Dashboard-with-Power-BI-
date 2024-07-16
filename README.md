@@ -33,3 +33,4 @@ git clone https://github.com/Aditya2235/PowerBI.git
 
 Contributions and feedback are welcome! If you have suggestions for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
 
+![a](https://github.com/user-attachments/assets/cc88b6d2-450f-42a4-9b3c-c8c18d25fd36)
